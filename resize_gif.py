@@ -1,7 +1,6 @@
 #by Fredray-21
 from PIL import Image, ImageSequence
 import os, sys
-import glob
 from pathlib import Path
 
 # Wrap on-the-fly thumbnail generator
